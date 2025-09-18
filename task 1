@@ -4,7 +4,7 @@ Y = 50
 Z = 60
 print(X + Y)
 print(X - Z)
-print(Y * Z)
+print(Y / Z)
 if X > Z:
    print('Yes')
 else:
